@@ -1,4 +1,4 @@
-# Dataflow
+# Dataflow - Compiler Construction (MC921)
 
 The objective of this assignment is analyse and optimize uCIR.
 Further instructions can be seen in this
